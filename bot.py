@@ -89,4 +89,4 @@ async def _bot(ctx):
 
 
 bot.run(
-    'MTE1NDM3OTE2OTU0Mzc2MTkyMA.GFLBrE.3uZNEJtzQqVM4XiWX_WWmwsxdumRWskvHcyljA')
+    '')
